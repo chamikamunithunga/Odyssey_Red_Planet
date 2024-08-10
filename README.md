@@ -53,4 +53,30 @@ CSS: To style the project with modern, responsive designs.
 
 JavaScript: For interactive elements and dynamic content, bringing the Red Planet to life.
 
+🚀 Usage
+--------
+Once set up, you can explore the Red Planet by:
+
+Navigating Mars' Surface: Use the interactive map to view different regions of Mars.
+
+Viewing Mars Missions: Check out detailed timelines and mission data.
+
+Exploring Educational Content: Dive into articles and videos about Mars' geology and exploration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
