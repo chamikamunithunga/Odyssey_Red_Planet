@@ -64,6 +64,29 @@ Viewing Mars Missions: Check out detailed timelines and mission data.
 Exploring Educational Content: Dive into articles and videos about Mars' geology and exploration.
 
 
+🤝 Contributing
+----------------
+We welcome contributions to enhance the Red Planet experience. Please follow these steps:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature/YourFeature).
+
+Make your changes.
+
+Commit and push your changes.
+
+Open a pull request.
+
+📄 License
+-----------
+This project is licensed under the MIT License.
+
+💬 Contact
+----------
+For questions or feedback, please reach out to us at munithungac@gmail.com
+
+
 
 
 
