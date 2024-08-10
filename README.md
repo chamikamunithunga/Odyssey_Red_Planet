@@ -45,6 +45,12 @@ Educational Content: Learn about Mars' geology, potential for past life, and fut
 Future Missions: Stay updated with the latest developments in Mars exploration and research.
 
 
+🛠️ Technologies Used
+--------------------
+HTML5: For structuring the content and providing a solid foundation.
 
+CSS: To style the project with modern, responsive designs.
+
+JavaScript: For interactive elements and dynamic content, bringing the Red Planet to life.
 
 
